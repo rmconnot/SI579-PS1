@@ -2,9 +2,17 @@
 	color: green;
 }
 .blue-heading {
-	color: blue;
+	color: #255;
+	font-size: 30pt;
+	font-weight: bold;
+	background-color: yellow;
+	text-decoration: underline;
 }
 
 .pink-heading {
 	color: pink;
+}
+
+footer {
+	margin-top: 40px;
 }
